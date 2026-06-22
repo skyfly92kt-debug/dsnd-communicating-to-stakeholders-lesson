@@ -30,6 +30,11 @@ There are 3 notebooks available here to showcase work related to the above quest
 
 There is an additional `.py` file that runs the necessary code to obtain the final model used to predict salary.
 
+_BootcampStats.ipynb_ Is an analysis of bootcamp grads on terms of job placement and salary
+_HowToBreakIntoTheField.ipynb_ Is an analysis of how to become a software developer
+_Salary.ipynb_ Is an analysis of the variables that are related to salary and job satisfaction
+_Salary_ML.py_ Is a python script that builds a Linear Regression model to predict salary.
+
 ## Results<a name="results"></a>
 
 The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
